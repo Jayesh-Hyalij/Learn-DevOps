@@ -1,0 +1,25 @@
+
+# Docker Orientation
+
+These articles contain step-by-step instructions on how to get started with Docker and its core concepts. In this series of articles, you'll learn how to:
+
+## Topics Covered
+
+- **Architecture of Docker**
+- **Build and run an image as a container**
+- **Share images using Docker Hub**
+- **Create custom images using Dockerfiles**
+- **Pushing custom images to Docker Hub**
+- **Persistent volumes in Docker**
+- **Creating a local Docker repository**
+- **Deploy Docker applications**
+- **Running applications using Docker Compose**
+- **Docker Swarm**
+- **Docker Stack**
+- **Docker Secrets**
+
+In addition, you'll also learn about the **best practices** for building images, and **troubleshooting Docker images and container-related issues**.
+
+---
+
+> 🐳 **So let's dive into Docker!**
